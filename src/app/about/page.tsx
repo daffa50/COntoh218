@@ -18,7 +18,7 @@ const About: NextPage = () => {
                     I am MAdrid barca  a <span>Your Expertise</span>
                   </h2>
                   <p>
-                    Hi! My name is Pemenang Super Saiyan KEren. I am a your expertise, and I am
+                    Hi! My name is Pemenang Super Saiyan KEren. aku masih pemula hahahaha, and I am
                     very passionate and dedicated to my work. With 1 years
                     experience as a your expertise, I have acquired the skills and
                     knowledge necessary to make your project a success. I enjoy
